@@ -7,10 +7,8 @@
   </p>
 </article>
 
-
-## Tech Stack
 <article>
-  <h2>My Skills 🛠️</h2>
+  <h2>Tech Skills 🛠️</h2>
 
   <!-- Skillicons for supported skills -->
   <img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,ts,react,nextjs,nodejs,expressjs,mongodb,mysql,redis,git,github,docker,awsd&perline=8" alt="Tech Stack" />
