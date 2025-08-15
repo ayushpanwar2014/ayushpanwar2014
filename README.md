@@ -26,9 +26,9 @@
 ![DSA](https://img.shields.io/badge/DataStructures--Algorithms-3182CE?style=for-the-badge)
 ![OOP](https://img.shields.io/badge/OOP-D53F8C?style=for-the-badge)
 ![OS](https://img.shields.io/badge/OperatingSystems-2B6CB0?style=for-the-badge)
+</article>
 
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - improving appointment workflow by 50% through role-based access (Admin, Doctor, Patient). Configured Razorpay and COD support, increasing payment success rate and flexibility. Implemented secure authentication using JWT, rotating refresh tokens, and HTTP-only cookies, reducing unauthorized access by 80%. (Internship: Mar – Jun 2025) [Prescripto – Healthcare Appointment Platform](https://github.com/ayushpanwar2014/Prescripto)
 
