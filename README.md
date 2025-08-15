@@ -28,13 +28,16 @@
 ![OS](https://img.shields.io/badge/OperatingSystems-2B6CB0?style=for-the-badge)
 </article>
 
-
-
+<article>
+  <h2>Working on 🧑🏻‍💻</h2>
 - improving appointment workflow by 50% through role-based access (Admin, Doctor, Patient). Configured Razorpay and COD support, increasing payment success rate and flexibility. Implemented secure authentication using JWT, rotating refresh tokens, and HTTP-only cookies, reducing unauthorized access by 80%. (Internship: Mar – Jun 2025) [Prescripto – Healthcare Appointment Platform](https://github.com/ayushpanwar2014/Prescripto)
 
 - Developed a scalable food delivery system using React, Node.js, and MongoDB with live order tracking and secure user login. Created an admin dashboard to manage restaurants, orders, and deliveries. Integrated Stripe for payments and optimized backend logic for high-traffic performance. (July – Dec 2024) [FoodoMart – Online Food Ordering App](https://github.com/ayushpanwar2014/FoodoMart)
 
 - 🤝 I’m looking for helpBuilt a content platform using Next.js for SEO, SSR, and fast rendering. Implemented secure authentication with bcrypt and JWT, full CRUD operations, and role-based access. Added markdown editing, tag filtering, and dynamic blog routing. Boosted performance by 25% via API and UI optimization. (Feb – Jun 2024) with [Blog Website – Full-Stack Blogging App](https://github.com/ayushpanwar2014/Blog-App)
+</article>
+
+
 
 - 👨‍💻 All of my projects are available at [https://ayushpanwar2014.github.io/Portfolio/](https://ayushpanwar2014.github.io/Portfolio/)
 
