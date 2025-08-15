@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=006AF7&width=435&lines=Hi+there!+%F0%9F%91%8B+I'm+Ayush+Singh+Panwar%2C+a+Full-Stack+MERN+developer.++)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=006AF7&width=435&lines=Hi+there!+%F0%9F%91%8B+I'm+Ayush+Singh+Panwar%2C)](https://git.io/typing-svg)
 
 ## About me 🧑‍💻
 Ambitious IT student with expertise in Frontend Development, Data structures, DBMS and comprehensive computer applications.
