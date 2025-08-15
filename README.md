@@ -9,7 +9,8 @@
 
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,html,css,js,ts,react,nextjs,nodejs,expressjs,mongodb,mysql,redis,git,github,docker,aws&perline=10)](https://skillicons.dev)
+
 - Web development
 - Mobile development
 - Network engineering
