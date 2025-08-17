@@ -40,7 +40,7 @@
 
 
 ## 👨‍💻 All of my projects are available at 
-[ayushpanwar2014.github.io/Portfolio/](https://ayushpanwar2014.github.io/Portfolio/)
+[Portfolio](https://ayushpanwar2014.github.io/Portfolio/)
 
 ## 💬Ask me about
 - **C, C++ , HTML, CSS, JavaScript, TypeScript, React.js, Next.js, Zod, Tailwind CSS, Node.js, Express.js, REST APIs, OAuth, Node Cache, MongoDB, MySQL, Redis, Git, GitHub, Docker, Cloudinary, AWS, CI/CD, Agile, Scrum, Micro**
