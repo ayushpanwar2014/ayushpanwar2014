@@ -2,11 +2,9 @@
 
 ## About me 🧑🏻‍💻
 
-<article>
-  <p>
-    Full-stack developer skilled in building scalable web applications using the MERN stack (MongoDB, Express.js, React.js, Node.js). Strong backend experience with REST APIs, user authentication, and database design. Experienced in integrating AI capabilities using API-driven services to enhance application functionality. Adept at writing clean, maintainable code and solving complex problems with innovative approaches.
-  </p>
-</article>
+
+- Full-stack developer skilled in building scalable web applications using the MERN stack (MongoDB, Express.js, React.js, Node.js). Strong backend experience with REST APIs, user authentication, and database design. Experienced in integrating AI capabilities using API-driven services to enhance application functionality. Adept at writing clean, maintainable code and solving complex problems with innovative approaches.
+ 
 
 ## Tech Skills 🛠️
 
