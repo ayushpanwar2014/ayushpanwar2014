@@ -11,6 +11,7 @@
 
   <!-- Skillicons for supported skills -->
   <img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,ts,react,nextjs,nodejs,expressjs,mongodb,mysql,redis,git,github,docker,awsd&perline=8" alt="Tech Stack" />
+  
 ![Zod](https://img.shields.io/badge/Zod-7A5AF8?style=for-the-badge&logo=zod)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![REST APIs](https://img.shields.io/badge/REST%20APIs-6C63FF?style=for-the-badge)
