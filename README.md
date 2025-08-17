@@ -43,11 +43,14 @@
 ## 💬Ask me about
 - **C, C++ , HTML, CSS, JavaScript, TypeScript, React.js, Next.js, Zod, Tailwind CSS, Node.js, Express.js, REST APIs, OAuth, Node Cache, MongoDB, MySQL, Redis, Git, GitHub, Docker, Cloudinary, AWS, CI/CD, Agile, Scrum, Micro**
 
-- 📫 How to reach me **ayush.panwar2014@gmail.com**
+## 📫 How to reach me
+- **ayush.panwar2014@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1dn2wMzNKdFM6xk9PSXq7F1n-q2BQ9QVr/view?usp=sharing)
+## 📄 Know about my experiences
+- [Resume](https://drive.google.com/file/d/1dn2wMzNKdFM6xk9PSXq7F1n-q2BQ9QVr/view?usp=sharing)
 
-- ⚡ Fun fact **Did you know that the MERN stack, which I use to build awesome apps like FoodoMart and Prescripto, is named after its core technologies—MongoDB, Express.js, React, and Node.js—but it’s also a playful nod to the word "modern"? It’s like the cool kid of web development stacks, making full-stack coding as smooth as a perfectly optimized API call! 😎 Want to geek out about how I slashed unauthorized access by 80% in a healthcare app? Just ask!**
+## ⚡ Fun fact
+- **Did you know that the MERN stack, which I use to build awesome apps like FoodoMart and Prescripto, is named after its core technologies—MongoDB, Express.js, React, and Node.js—but it’s also a playful nod to the word "modern"? It’s like the cool kid of web development stacks, making full-stack coding as smooth as a perfectly optimized API call! 😎 Want to geek out about how I slashed unauthorized access by 80% in a healthcare app? Just ask!**
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayushpanwar2014&show_icons=true&locale=en&layout=compact" alt="ayushpanwar2014" /></p>
 
