@@ -1,6 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=006AF7&width=435&lines=Hi+there!+%F0%9F%91%8B+I'm+Ayush+Singh+Panwar)](https://git.io/typing-svg)
 
 ## About me 🧑🏻‍💻
+
 <article>
   <p>
     Full-stack developer skilled in building scalable web applications using the MERN stack (MongoDB, Express.js, React.js, Node.js). Strong backend experience with REST APIs, user authentication, and database design. Experienced in integrating AI capabilities using API-driven services to enhance application functionality. Adept at writing clean, maintainable code and solving complex problems with innovative approaches.
@@ -38,7 +39,8 @@
 
 
 
-- 👨‍💻 All of my projects are available at [ayushpanwar2014.github.io/Portfolio/](https://ayushpanwar2014.github.io/Portfolio/)
+## 👨‍💻 All of my projects are available at 
+[ayushpanwar2014.github.io/Portfolio/](https://ayushpanwar2014.github.io/Portfolio/)
 
 ## 💬Ask me about
 - **C, C++ , HTML, CSS, JavaScript, TypeScript, React.js, Next.js, Zod, Tailwind CSS, Node.js, Express.js, REST APIs, OAuth, Node Cache, MongoDB, MySQL, Redis, Git, GitHub, Docker, Cloudinary, AWS, CI/CD, Agile, Scrum, Micro**
