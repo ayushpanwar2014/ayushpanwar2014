@@ -47,7 +47,7 @@
 - **ayush.panwar2014@gmail.com**
 
 ## 📄 Know about my experiences
-- [Resume](https://drive.google.com/file/d/1dn2wMzNKdFM6xk9PSXq7F1n-q2BQ9QVr/view?usp=sharing)
+- [Resume](https://drive.google.com/file/d/1aPoFWHismcSvhSvzVhA1wA2IfElLnvpk/view?usp=sharing)
 
 ## ⚡ Fun fact
 - **Did you know that the MERN stack, which I use to build awesome apps like FoodoMart and Prescripto, is named after its core technologies—MongoDB, Express.js, React, and Node.js—but it’s also a playful nod to the word "modern"? It’s like the cool kid of web development stacks, making full-stack coding as smooth as a perfectly optimized API call! 😎 Want to geek out about how I slashed unauthorized access by 80% in a healthcare app? Just ask!**
