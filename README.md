@@ -4,6 +4,12 @@
 
 
 - Full-stack developer skilled in building scalable web applications using the MERN stack (MongoDB, Express.js, React.js, Node.js). Strong backend experience with REST APIs, user authentication, and database design. Experienced in integrating AI capabilities using API-driven services to enhance application functionality. Adept at writing clean, maintainable code and solving complex problems with innovative approaches.
+
+## 🌍 Open To Work  
+
+✅ Remote roles across **US, Canada, Europe, Australia, or any timezone**  
+✅ Full-time | Part-time | Contract  
+✅ Open to **Backend / Full-Stack roles**  
  
 
 ## Tech Skills 🛠️
