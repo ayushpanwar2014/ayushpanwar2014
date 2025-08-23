@@ -1,9 +1,18 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=006AF7&width=435&lines=Hi+there!+%F0%9F%91%8B+I'm+Ayush+Singh+Panwar)](https://git.io/typing-svg)
 
-## About me 🧑🏻‍💻
+## About Me 🧑🏻‍💻  
 
+- Full-stack developer skilled in building scalable web applications using the **MERN stack** (MongoDB, Express.js, React.js, Node.js).  
+- Strong backend experience with **REST APIs, user authentication (JWT, OAuth), and database design**.  
+- Built real-world projects including:  
+  - 🏥 **Healthcare Appointment System** – managing 100+ daily bookings with secure JWT authentication & integrated payments.  
+  - 🍔 **Food Delivery Platform** – real-time order tracking with **Stripe payment integration**.  
+- Experienced in integrating **AI capabilities** using API-driven services to enhance application functionality.  
+- Adept at writing **clean, maintainable code** and solving complex problems with innovative approaches.  
+- Flexible to work across **US, Canada, Europe, Australia, or any timezone**.  
+- Comfortable with **asynchronous communication** and collaboration using **Git, GitHub, Slack, Notion**.  
 
-- Full-stack developer skilled in building scalable web applications using the MERN stack (MongoDB, Express.js, React.js, Node.js). Strong backend experience with REST APIs, user authentication, and database design. Experienced in integrating AI capabilities using API-driven services to enhance application functionality. Adept at writing clean, maintainable code and solving complex problems with innovative approaches.
+---
 
 ## 🌍 Open To Work  
 
