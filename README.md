@@ -63,10 +63,24 @@
 
 ## ⚡ Fun fact
 - **Did you know that the MERN stack, which I use to build awesome apps like FoodoMart and Prescripto, is named after its core technologies—MongoDB, Express.js, React, and Node.js—but it’s also a playful nod to the word "modern"? It’s like the cool kid of web development stacks, making full-stack coding as smooth as a perfectly optimized API call! 😎 Want to geek out about how I slashed unauthorized access by 80% in a healthcare app? Just ask!**
-## Github Stats 📈
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayushpanwar2014&show_icons=true&locale=en&layout=compact" alt="ayushpanwar2014" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayushpanwar2014&show_icons=true&locale=en" alt="ayushpanwar2014" /></p>
+## Github Stats 📈
+
+<p align="center">
+  <!-- Top Languages Card -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushpanwar2014&show_icons=true&locale=en&layout=compact&theme=dark" 
+    alt="Top Languages" 
+    style="margin-right: 20px;"
+  />
+
+  <!-- GitHub Stats Card -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=ayushpanwar2014&show_icons=true&locale=en&theme=dark" 
+    alt="GitHub Stats" 
+  />
+</p>
+
 
 <p align="center">
   <img 
@@ -74,4 +88,5 @@
     alt="GitHub Streak Stats" 
   />
 </p>
+
 
