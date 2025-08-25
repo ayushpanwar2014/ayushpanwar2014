@@ -66,24 +66,28 @@
 
 ## Github Stats 📈
 
-<p align="center">
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
   <!-- Top Languages Card -->
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushpanwar2014&show_icons=true&locale=en&layout=compact&theme=dark" 
     alt="Top Languages" 
-    style="margin-right: 20px;"
+    width="300"
   />
 
   <!-- GitHub Stats Card -->
   <img 
     src="https://github-readme-stats.vercel.app/api?username=ayushpanwar2014&show_icons=true&locale=en&theme=dark" 
     alt="GitHub Stats" 
+    width="300"
   />
-  
+
+  <!-- GitHub Streak Stats -->
   <img 
     src="https://github-readme-streak-stats.herokuapp.com/?user=ayushpanwar2014&theme=dark&hide_border=true" 
     alt="GitHub Streak Stats" 
+    width="300"
   />
-</p>
+</div>
+
 
 
